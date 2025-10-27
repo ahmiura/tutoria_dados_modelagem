@@ -5,3 +5,9 @@ mlruns/
 02-dados/*.csv
 
 .DS_Store
+
+# Ignorar datasets e arquivos grandes
+movies_dataset/
+*.zip
+
+.venv/
