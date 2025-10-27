@@ -10,4 +10,4 @@ mlruns/
 movies_dataset/
 *.zip
 
-.venv/
+02-dados/.venv/
