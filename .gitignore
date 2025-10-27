@@ -7,7 +7,7 @@ mlruns/
 .DS_Store
 
 # Ignorar datasets e arquivos grandes
-movies_dataset/
+02-dados/movies_dataset/*.csv
+02-dados/movies_dataset/*.zip
 *.zip
-
 02-dados/.venv/
